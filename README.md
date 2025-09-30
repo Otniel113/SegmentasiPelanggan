@@ -15,7 +15,7 @@ Gaya IEEE
 
 ---
 
-Abiezer, Otniel "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering," in *Dinamika Komunikasi Strategis di Era Kecerdasan Buatan Volume 2 - Corporate Communication dan Marketing Communication*, Tangerang, Indonesia: UMN Press, 2025.
+O. Abiezer, "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering," in *Dinamika Komunikasi Strategis di Era Kecerdasan Buatan Volume 2 - Corporate Communication dan Marketing Communication*, Tangerang, Indonesia: UMN Press, 2025.
 
 ---
 
