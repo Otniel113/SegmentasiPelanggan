@@ -8,14 +8,14 @@ Komunikasi pemasaran merupakan salah satu topik yang biasa diteliti dalam bidang
 Kata kunci: kecerdasan buatan, komunikasi pemasaran, segmentasi pelanggan, clustering, agglomerative clustering
 
 ## Link
-Bisa dilihat pada [Link Ini](https://umnpress.umn.ac.id/umnpress/detail/23)
+Bisa dilihat pada [Link Ini](https://umnpress.umn.ac.id/umnpress/detail/27)
 
 ## Sitasi
 Gaya IEEE
 
 ---
 
-O. Abiezer, "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering," in *Dinamika Komunikasi Strategis di Era Kecerdasan Buatan Volume 2 - Corporate Communication dan Marketing Communication*, Tangerang, Indonesia: UMN Press, 2025.
+O. Abiezer, "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering," in *Dinamika Komunikasi Korporasi dan Pemasaran pada Era Kecerdasan Buatan*, Tangerang, Indonesia: UMN Press, 2025.
 
 ---
 
@@ -23,6 +23,6 @@ Gaya APA
 
 ---
 
-Abiezer, Otniel. (2025). "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering". In *Dinamika Komunikasi Strategis di Era Kecerdasan Buatan Volume 2 - Corporate Communication dan Marketing Communication*. UMN Press.
+Abiezer, Otniel. (2025). "Penerapan Kecerdasan Buatan dalam Komunikasi Pemasaran: Segmentasi Pelanggan dengan Agglomerative Clustering". In *Dinamika Komunikasi Korporasi dan Pemasaran pada Era Kecerdasan Buatan*. UMN Press.
 
 ---
